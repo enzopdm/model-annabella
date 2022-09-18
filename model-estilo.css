@@ -10,17 +10,20 @@ body{
     width: 70%;
 }
 
-nav{
-    background-color: #d4d4c4;
+footer{
     width: 70%;
-    font-weight: bold;
+    text-align: center;
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+h3{
+    color: #555e4c;
+    margin: 10px;
+}
+
+.imgs{
+    margin: 10px;
+    border: 5px solid #b5b5a9;
+    width: 65%;
 }
 
 li {
@@ -40,12 +43,6 @@ li a:hover{
     text-decoration: underline;
 }
 
-.imgs{
-    margin: 10px;
-    border: 5px solid #b5b5a9;
-    width: 65%;
-}
-
 main{
     background-color: #f6f6e4;
     color: black;
@@ -54,16 +51,19 @@ main{
     width: 70%;
 }
 
-h3{
-    color: #555e4c;
-    margin: 10px;
+nav{
+    background-color: #d4d4c4;
+    width: 70%;
+    font-weight: bold;
 }
 
 p{
     margin: 10px;
 }
 
-footer{
-    width: 70%;
-    text-align: center;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
